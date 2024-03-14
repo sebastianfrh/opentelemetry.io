@@ -120,3 +120,8 @@
   components: []
   reference: ''
   contact: ''
+- name: Frávega
+  url: https://www.fravega.com/
+  components: [Collector, Go, Java]
+  reference: ''
+  contact: 'sebastian.rodriguez@fravega.com.ar'
